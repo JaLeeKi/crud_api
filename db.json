@@ -1,12 +1,20 @@
 {
   "products": [
     {
-      "name": "Essential Backpack",
-      "price": 259.99,
-      "quantity": 5,
-      "color": "orange",
-      "id": "0124081a-4daa-425a-bb40-d5c016893fe3",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi nullam vehicula ipsum a arcu cursus vitae congue. Risus quis varius quam quisque. Quis risus sed vulputate odio. Ultrices eros in cursus turpis. Est velit egestas dui id ornare arcu. Sem fringilla ut morbi tincidunt augue interdum velit euismod. Dictumst quisque sagittis purus sit amet volutpat. Sed libero enim sed faucibus turpis in eu. Dui vivamus arcu felis bibendum ut tristique et egestas."
+      "name": "Jade's Work Boots",
+      "price": "79.99",
+      "quantity": "1",
+      "description": "Extremely Worn!",
+      "color": "Khaki",
+      "id": "b6f41bb5-4409-4214-98bc-e8d96d82cd59"
+    },
+    {
+      "name": "Green Tent",
+      "price": "500.00",
+      "quantity": "10",
+      "description": "Superior Quality!",
+      "color": "Green",
+      "id": "f17cde4a-157f-4318-a0c1-162f8a421042"
     }
   ]
 }
